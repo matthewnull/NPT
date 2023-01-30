@@ -4,10 +4,13 @@ Introducing Native Piff Tools - the ultimate program for enhancing your Grand Th
 
 But that's not all - Native Piff Tools also comes packed with a variety of PC tools to help you keep your computer running at its best. With the ability to launch the game from Steam, Epic or Rockstar Games launcher, you have the flexibility to choose your preferred platform for playing. Additionally, a wide array of performance and cleanup tools help you optimize your computer's performance and keep it running smoothly. Whether you're a hardcore Grand Theft Auto player or just looking for a way to make your gaming experience more enjoyable, Native Piff Tools is the perfect solution. Try it out today and see the difference it makes in your Grand Theft Auto experience!
 
-# Current Menus / Options
+## Current Menus / Options
 
-## Menus:
+### Menus:
 
 > Stand (Free Version), Top G, Liquid, River, & Poison
 
 > You also have to option to inject custom .dll menus, but you must make/get them yourself.
+
+### Tools:
+> Disk Cleaner, Registry Cleaner, Spoofers, Uninstall+, Doxzy (People Searcher), 
