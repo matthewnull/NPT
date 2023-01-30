@@ -8,12 +8,6 @@ But that's not all - Native Piff Tools also comes packed with a variety of PC to
 
 ## Menus:
 
-> Stand (Free Version) > Top G
+> Stand (Free Version), Top G, Liquid, River, & Poison
 
-> Top G
-
-> Liquid
-
-> River
-
-> Posion
+> You also have to option to inject custom .dll menus, but you must make/get them yourself.
