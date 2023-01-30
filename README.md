@@ -8,7 +8,7 @@ But that's not all - Native Piff Tools also comes packed with a variety of PC to
 
 ## Menus:
 
-> Stand (Free Version)
+> Stand (Free Version) > Top G
 
 > Top G
 
