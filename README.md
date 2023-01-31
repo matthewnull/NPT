@@ -9,7 +9,7 @@ But that's not all - Native Piff Tools also comes packed with a variety of PC to
 ### Installing
 1. On the right side under **Releases** click *Native Piff Tools*.
 
-2. Next, click *Native.Piff.Tools.exe*. This will download the **Native Piff Tools Installer*.
+2. Next, click *Native.Piff.Tools.Installer.msi*. This will download the **Native Piff Tools Installer*.
 
 3. Once the installer has downloaded, open it and install **NPT**. You should now see **Native Piff Tools* on your Desktop.
 We also took the liberty to add it to the *Add and Remove Programs* & *Start Menu*.
