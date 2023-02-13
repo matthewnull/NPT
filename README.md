@@ -6,7 +6,7 @@ Additionally, it offers advanced features like PC name, HWID, and GUID spoofing,
 
 
 - Custom Launcher (Steam, Epic, Rockstar)
-- 3 Working Mod Menus
+- 4 Working Mod Menus
 - 3 Spoofers (PC Name, HWID, GUID)
 - Geo-Location Tool
 - Custom .dll Injector (Injector+)
