@@ -6,9 +6,9 @@ Additionally, it offers advanced features like PC name, HWID, and GUID spoofing,
 
 
 - Custom Launcher (Steam, Epic, Rockstar)
-- 4 Working Mod Menus
-- 3 Spoofers (PC Name, HWID, GUID)
-- Geo-Location Tool
+- 5 Preinstalled Mod Menus
+- KeepSafe (Spoofer)
+- Geo-Location Tool (GeoWiz)
 - Custom .dll Injector (Injector+)
 
 
