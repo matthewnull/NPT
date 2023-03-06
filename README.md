@@ -1,7 +1,3 @@
-.Net Framework 4.8 | Windows 10/11 | x32/x64 | LAUNCHER, INJECTOR, SPOOFER, GEO-LOCATE | NEW 2023 | OPEN SOURCE
-
-
-
 ![NPT Logo](https://user-images.githubusercontent.com/96446997/215381277-349e6c10-3fc7-4997-90c0-1fe7bf306112.png)
 # Native Piff Tools Version: 1.0.0.1
 Native Piff Tools is the ultimate tool for enhancing your GTA V gaming experience. This mod menu injector provides a seamless and user-friendly interface for all your modding needs. With Native Piff Tools, you can easily inject mods into your game with just a few clicks.
