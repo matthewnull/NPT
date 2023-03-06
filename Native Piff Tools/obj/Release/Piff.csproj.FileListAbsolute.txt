@@ -1,0 +1,14 @@
+C:\Users\Piff\source\repos\Piff\bin\Release\Piff.exe.config
+C:\Users\Piff\source\repos\Piff\bin\Release\Piff.exe
+C:\Users\Piff\source\repos\Piff\bin\Release\Piff.pdb
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.csproj.AssemblyReference.cache
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.Eula.resources
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.Home.resources
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.Main.resources
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.Splash.resources
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.Properties.Resources.resources
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.csproj.GenerateResource.cache
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.csproj.CoreCompileInputs.cache
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.exe
+C:\Users\Piff\source\repos\Piff\obj\Release\Piff.pdb
