@@ -1,4 +1,4 @@
-![NPT Logo](https://user-images.githubusercontent.com/96446997/215381277-349e6c10-3fc7-4997-90c0-1fe7bf306112.png)
+![NPT Logo](https://raw.githubusercontent.com/impiff/Native-Piff-Tools/main/npt.png)
 
 # Native Piff Tools Version 1.0.0.1
 Native Piff Tools is the ultimate tool for enhancing your GTA V gaming experience. This mod menu injector provides a seamless and user-friendly interface for all your modding needs. With Native Piff Tools, you can easily inject mods into your game with just a few clicks.
